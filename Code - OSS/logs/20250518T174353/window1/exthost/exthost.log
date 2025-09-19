@@ -1,4 +1,0 @@
-2025-05-18 17:43:54.828 [info] Extension host with pid 1184055 started
-2025-05-18 17:43:54.828 [info] Skipping acquiring lock for /home/kira/.config/Code - OSS/User/workspaceStorage/d48f9a25e071117fe926cb42db600ff8.
-2025-05-18 17:43:54.926 [info] Extension host terminating: renderer closed the MessagePort
-2025-05-18 17:43:54.927 [info] Extension host with pid 1184055 exiting with code 0
